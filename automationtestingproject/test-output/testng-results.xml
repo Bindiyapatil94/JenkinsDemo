@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1033651" started-at="2019-09-20T10:02:17Z" finished-at="2019-09-20T10:19:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1033651" started-at="2019-09-20T10:02:17Z" finished-at="2019-09-20T10:19:31Z">
+      <class name="project.LoginTest">
+        <test-method status="PASS" signature="setuptesting()[pri:0, instance:project.LoginTest@5bfbf16f]" name="setuptesting" is-config="true" duration-ms="30402" started-at="2019-09-20T10:02:18Z" finished-at="2019-09-20T10:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuptesting -->
+        <test-method status="PASS" signature="validate_login_test()[pri:0, instance:project.LoginTest@5bfbf16f]" name="validate_login_test" duration-ms="1001197" started-at="2019-09-20T10:02:48Z" finished-at="2019-09-20T10:19:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_test -->
+        <test-method status="PASS" signature="TesrDown()[pri:0, instance:project.LoginTest@5bfbf16f]" name="TesrDown" is-config="true" duration-ms="1435" started-at="2019-09-20T10:19:30Z" finished-at="2019-09-20T10:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TesrDown -->
+      </class> <!-- project.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
